@@ -2,8 +2,6 @@
 
 ###
 
-<br clear="both">
-
 <h4 align="left">- Fullstack developer @ Junior Conseil Taker<br>- Teaching Assistant and 3rd year student @ Epitech<br>- Former Fullstack developer @ Arskan</h6>
 
 ###
@@ -48,6 +46,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MaxencePellouin/MaxencePellouin/output/snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaxencePellouin/MaxencePellouin/output/snake.svg" alt="Snake animation" />
 
 ###
