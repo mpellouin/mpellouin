@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<h6 align="left">- Fullstack developer @ Junior Conseil Taker<br>- Teaching Assistant and 3rd year student @ Epitech<br>- Former Fullstack developer @ Arskan</h6>
+<h4 align="left">- Fullstack developer @ Junior Conseil Taker<br>- Teaching Assistant and 3rd year student @ Epitech<br>- Former Fullstack developer @ Arskan</h6>
 
 ###
 
