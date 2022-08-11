@@ -48,6 +48,6 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/MaxencePellouin/MaxencePellouin/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/MaxencePellouin/MaxencePellouin/output/snake.gif" alt="Snake animation" />
 
 ###
