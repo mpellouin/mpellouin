@@ -42,10 +42,3 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MaxencePellouin/MaxencePellouin/output/snake.svg" alt="Snake animation" />
-
-###
