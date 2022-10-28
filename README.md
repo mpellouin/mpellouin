@@ -25,6 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="47" alt="git logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="47" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="47" alt="linux logo"  />
+  <a href="https://wakatime.com/@4ec614b6-634e-4060-a5fb-e94261618265"><img src="https://wakatime.com/badge/user/4ec614b6-634e-4060-a5fb-e94261618265.svg" alt="Total time coded since Oct 28 2022" /></a>
 </div>
 
 ###
