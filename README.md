@@ -1,45 +1,73 @@
-<h2 align="left">Hi 👋! My name is Maxence and I'm a software developer, from France.</h2>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<h4 align="left">- Teaching Assistant and 3rd year student @ Epitech<br>- Former fullstack developer @ Junior Conseil Taker<br>- Former Fullstack developer @ Arskan</h6>
+<p align="left">My name is Maxence and I'm a passionate software developer, from France.</p>
 
 ###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Data Science</p>
+
+###
+
+<h4 align="left">Work experience</h4>
+
+###
+
+<p align="left">🇪 Teaching assistant @ Epitech<br>🇹 Former Back-end developer @ Junior Conseil Taker<br>🐘 Former fullStack developer @ Arskan</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=mpellouin" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=mpellouin" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="64" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="64" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="64" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="64" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="64" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="64" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="64" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="64" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="64" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="64" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" width="64" alt="haskell logo"  />
+</div>
+<br clear="both">
+<div align="center">
+  <img height="20" src="https://wakatime.com/badge/user/db09220f-71c2-4cf8-b82f-abd17f9c13c1.svg?style=for-the-badge"  />
 </div>
 
 ###
 
+<h2 align="left">Contact</h2>
+
+###
+
+<br clear="both">
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="47" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="47" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" width="47" alt="svelte logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="47" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="47" alt="c logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="47" alt="cplusplus logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" width="47" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" width="47" alt="haskell logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" width="47" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="47" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" width="47" alt="linux logo"  />
-  <a href="https://wakatime.com/@4ec614b6-634e-4060-a5fb-e94261618265"><img src="https://wakatime.com/badge/user/4ec614b6-634e-4060-a5fb-e94261618265.svg" alt="Total time coded since Oct 28 2022" /></a>
-</div>
-
-###
-
-<img align="right" height="171" src="https://anyforsoft.com/static/a2da834e20a93f2114281a1174296b58/17.gif"  />
-
-###
-
-<div align="left">
   <a href="https://www.linkedin.com/in/maxence-pellouin/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=add me on&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
   </a>
   <a href="mailto:maxence.pellouin@epitech.eu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=an email&logo=microsoft-outlook&label=Send me&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
+###
+
+<h2 align="left">Want to support me?</h2>
+
+###
+
+<div align="center">
+<a href='https://ko-fi.com/Z8Z1HRRJ7' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a></div>
