@@ -7,12 +7,6 @@
 <img src="https://i.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" height="100"/>
 </div>
 
-<div align="center">
-  <a href="https://wakatime.com/@db09220f-71c2-4cf8-b82f-abd17f9c13c1"><img src="https://wakatime.com/badge/user/db09220f-71c2-4cf8-b82f-abd17f9c13c1.svg" alt="Total time coded since Jan 11 2023" /></a></div>
-  <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=mpellouin.mpellouin&right_color=teal"  />
-</div>
-
 ###
 
 <h2 align="left">👩‍💻  About Me</h3>
