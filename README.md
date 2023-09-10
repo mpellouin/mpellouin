@@ -15,7 +15,7 @@
 
 <p align="left">I'm a software engineer from France.<br><br>
 My areas of interest include problem-solving, cloud infrastructure, machine learning, and software development.<br><br>
-With a quality oriented-focus, I enjoy creating simple yet effective solutions to improve application performance, ease of maintenance, and user experience.<br><br>- 🔭 I’m working as a FullStack Engineer @ Karmen.<br>- 🌴 I'm the tech lead @ Trotter. Join us <a href="https://fr.linkedin.com/company/trotter-app" target="_blank">here.</a><br>- 📚 Currently studying in 🇰🇷, at Chung Ang University.<br>- 🈺 I'm looking for an internship starting October 2023!<br>- 💻 ex Junior Conseil Taker, Arskan, Epitech (as a teaching assistant)</p>
+With a quality oriented-focus, I enjoy creating simple yet effective solutions to improve application performance, ease of maintenance, and user experience.<br><br>- 🔭 I’m working as a FullStack Engineer @ Karmen.<br>- 🌴 I'm the tech lead @ Trotter. Join us <a href="https://fr.linkedin.com/company/trotter-app" target="_blank">here.</a><br>- 📚 Currently studying in 🇰🇷, at Chung Ang University.<br>- 🈺 I'm looking for a part-time internship starting October 2024 (can become a CDI in 2025)!<br>- 💻 ex Karmen, Junior Conseil Taker, Arskan, Epitech (as a teaching assistant)</p>
 
 ###
 
