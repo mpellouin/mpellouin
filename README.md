@@ -6,7 +6,7 @@ FullStack Engineer from France 🇫🇷
 
 I'm a detailed oriented software engineering that enjoys creating simple yet efficient solutions to improve application performance, ease of maintenance and user experience. 
 
-Currently studying at Chung Ang University in Seoul, 🇰🇷 
+Currently studying at Chung Ang University in Seoul, 🇰🇷 (*4.37 GPA*)
 
 <b>I'm looking for a 6-month end-of-studies internship that can be turned into a permanent contract, in the Lyon area or remotely.</b>
 
