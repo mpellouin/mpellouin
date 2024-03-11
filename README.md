@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 FullStack Engineer from France 🇫🇷
 -----------------
 
-I'm a detailed oriented software engineering that enjoys creating simple yet efficient solutions to improve application performance, ease of maintenance and user experience. 
+I'm a detail-oriented software engineering that enjoys creating simple yet efficient solutions to improve application performance, ease of maintenance and user experience. 
 
 Currently studying at Chung Ang University in Seoul, 🇰🇷 (*4.37 GPA*)
 
