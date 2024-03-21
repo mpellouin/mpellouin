@@ -15,9 +15,9 @@ I'm really passionate about everything technology related so do not hesitate to 
 Previously worked for [Karmen](https://www.karmen.io/), [Epitech](https://www.epitech.eu/) (Teaching Assistant) and [Arskan](https://web.archive.org/web/20230127133716/https://arskan.com/)
 
 * 🌍  I'm based in Lyon, 🇫🇷
-* 🖥️  See my portfolio at [mpellouin.dev](http://mpellouin.dev)
-* ✉️  You can contact me at [contact@mpellouin.dev](mailto:contact@mpellouin.dev)
-* 🧠  I'm learning tRPC, VueJS and Nuxt
+* 🖥️  See my blog at [mpellouin.com](http://mpellouin.com)
+* ✉️  You can contact me at [contact@mpellouin.com](mailto:contact@mpellouin.com)
+* 🧠  I'm currently learning Java and Springboot
 * ⚡  Hiking, jogging and cat enthusiast
 
 ### Skills
