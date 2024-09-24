@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Maxence and I'm a software engineering student currently studying in Epitech Paris. Feel free to reach out.</p>
+<p align="left">My name is Maxence and I'm a software engineering student at Epitech Paris. Feel free to reach out.</p>
 
 ###
 
