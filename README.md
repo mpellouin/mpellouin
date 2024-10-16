@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🌍 From Lyon, coding globally<br>🔭 Currently working on yumyak, a speech-to-recipe AI-powered cooking app<br>🌱 Learning Kubernetes and Kafka<br>👯 Open to collabs</p>
+<p align="left">🌍 From Lyon, coding globally<br>🔭 Currently working on a speech-to-recipe AI-powered cooking app<br>🌱 Learning Angular and Spring<br>👯 Open to collabs</p>
 
 ###
 
