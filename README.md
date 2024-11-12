@@ -21,4 +21,4 @@
 
 ###
 
-Reach me through [email](mailto:hello@mpellouin.com) or [linkedin](https://linkedin.com/in/maxence-pellouin)
+Reach me through [email](mailto:contact@mpellouin.com) or [linkedin](https://linkedin.com/in/maxence-pellouin)
