@@ -7,7 +7,7 @@
 
 <p align="left">A software engineer based in France.</p>
 
-
+<p align="left">Currently working at Bpifrance with Ippon Technologies</p>
 
 
 <div align="left">
